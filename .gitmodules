@@ -1,0 +1,6 @@
+[submodule "ethereum-etl-postgres"]
+	path = ethereum-etl-postgres
+	url = https://github.com/blockchain-etl/ethereum-etl-postgres
+[submodule "ethereum-etl"]
+	path = ethereum-etl
+	url = https://github.com/blockchain-etl/ethereum-etl
