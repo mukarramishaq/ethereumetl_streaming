@@ -1,4 +1,4 @@
-# Ethereum ETL Pipeline
+# Ethereum ETL Streaming Pipeline
 
 This project sets up an [Ethereum ETL](https://ethereum-etl.readthedocs.io/en/latest/) with all its dependecies and constantly fetch data from blockchain and push them to a connected `postgres` database.
 
